@@ -1,0 +1,39 @@
+#contact_one{
+    background-image: url('https://images.unsplash.com/photo-1596524430615-b46475ddff6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60') !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.form_btn a{
+    background-color: rgb(211,35,39);
+    padding: 10px 25px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.form_btn a:hover{
+    background-color: rgb(214, 84, 86);
+}
+
+.contact_font_icons .contact_icon{
+    color: red;
+    border: 2px solid red;
+    padding: 15px;
+    border-radius: 99px;
+    margin-right: 20px;
+    font-size: 2em;
+}
+
+.contact_font_icons a{
+    color: rgb(77, 76, 76);
+    text-decoration: none;
+}
+
+@media only screen and (min-width: 980px) {
+    .i_frame {
+      width: 100%;
+    }
+  }
+
+  

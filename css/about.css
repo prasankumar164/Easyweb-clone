@@ -1,0 +1,67 @@
+@media only screen and (max-width: 989px) {
+    .about_two_right {
+     margin-top: 40px;
+    }
+    .about_two_left h1{
+        font-size: 1.4em !important;
+    }
+    .about_three_right h1{
+        font-size: 1.4em !important;
+    }
+  }
+
+
+
+
+  .about_two_left h1{
+    font-size: 2em;
+    font-weight: bold;
+}
+  .about_three_right h1{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.about_two_line:before{
+    content: "";
+    width: 9999px;
+    color: red;
+    width: 100px;
+    height: 2px;
+    display: block;
+    background-color: red;
+}
+
+.fa-star-o{
+   color: red !important;
+}
+
+.about_two_para p{
+    line-height: 1.8em;
+}
+
+.about_two_btn a{
+    background-color: rgb(211,36,40);
+    text-decoration: none;
+    padding: 10px 30px;
+    color: #fff;
+}
+.about_two_btn a:hover{
+    background-color: rgb(233, 101, 101);
+}
+
+
+
+
+/* super_model  */
+
+/* .super_model{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+} */
+
+.modal-title{
+color: red;
+}
+

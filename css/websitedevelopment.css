@@ -1,0 +1,20 @@
+.webdev_right p{
+    color: #262626 !important;
+    line-height: 1.8em;
+}
+
+.webdevone_content h2{
+    font-size: 22px;
+    color: #262626 !important;
+}
+
+.webdevone_content p{
+   line-height: 1.8em;
+   margin-top: 7px;
+}
+
+.webdev_two_right_content h3{
+ font-size: 1.4em;
+ font-weight: bold;
+}
+
