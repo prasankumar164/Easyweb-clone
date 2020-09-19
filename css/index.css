@@ -291,10 +291,14 @@ body{
   
   .home_left_one .accordion:after {
     content: '\002B';
-    color: red;
+    color: #fff;
     font-weight: bold;
     float: right;
     margin-left: 5px;
+    background-color: red;
+    border-radius: 99px;
+    padding: 0px 5px;
+    font-size: 15px;
   }
   
   .home_left_one .active:after {
